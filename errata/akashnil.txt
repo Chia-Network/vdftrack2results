@@ -1,0 +1,3 @@
+1) Although independently discovered, the approximation method is very similar to the one described in the following:
+D. Shanks, ‘Class Number, a Theory of Factorization and Genera’, Proceedings of Symposium of Pure Mathematics, Vol. 20, 1969 pp. 415-440.
+2) The constant lambda = 1.0471976 which was experimentally calculated to 8 decimal places is equal to pi / 3. The connection with pi is justified in Shank’s document using Dirichlet Series.
